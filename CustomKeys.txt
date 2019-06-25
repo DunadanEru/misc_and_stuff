@@ -142,78 +142,78 @@ Hotkey=U
 
 //dragonhawk 
 [hdhw]
-Hotkey=D
+Hotkey=Q
 Tip=Train |cffffcc00D|rragonhawk Rider
 
 // Aerial Shackles
 [Amls]
 Tip=A|cffffcc00e|rrial Shackles
-Hotkey=E
+Hotkey=Q
 
 // Cloud
 [Aclf]
 Tip=|cffffcc00C|rloud
-Hotkey=C
+Hotkey=W
 
 //footman
 [hfoo]	
-Hotkey=F
+Hotkey=Q
 Tip=Train |cffffcc00F|rootman
 
 // Defend
 [Adef]
 Tip=|cffffcc00D|refend
 Untip=Stop |cffffcc00D|refend
-Hotkey=D
-Unhotkey=D
+Hotkey=Q
+Unhotkey=Q
 
 //flying machine
 [hgyr]
-Hotkey=F
+Hotkey=Q
 Tip=Train |cffffcc00F|rlying Machine
 
 //knight
 [hkni]
-Hotkey=K
+Hotkey=E
 Tip=Train |cffffcc00K|rnight
 
 //priest
 [hmpr]
-Hotkey=P
+Hotkey=W
 Tip=Train |cffffcc00P|rriest
 
 // Inner Fire
 [Ainf]
 Tip=Inner |cffffcc00F|rire
 Untip="|cffc3dbffRight-click to activate auto-casting.|r"
-Hotkey=F
-Unhotkey=F
+Hotkey=E
+Unhotkey=E
 
 // Heal
 [Ahea]
 Tip=H|cffffcc00e|ral
 Untip="|cffc3dbffRight-click to activate auto-casting.|r"
-Hotkey=E
-Unhotkey=E
+Hotkey=Q
+Unhotkey=Q
 
 // Dispel Magic
 [Adis]
 Tip=|cffffcc00D|rispel Magic
-Hotkey=D
+Hotkey=W
 
 //mortar team
 [hmtm]
-Hotkey=M
+Hotkey=W
 Tip=Train |cffffcc00M|rortar Team
 
 // Flare
 [Afla]
 Tip=|cffffcc00F|rlare
-Hotkey=F
+Hotkey=Q
 
 //peasant
 [hpea]
-Hotkey=P
+Hotkey=Q
 Tip=Train |cffffcc00P|reasant
 
 // Call to Arms (For one or several peons)
@@ -232,47 +232,47 @@ Unhotkey=W
 
 //rifleman
 [hrif]
-Hotkey=R
+Hotkey=W
 Tip=Train |cffffcc00R|rifleman
 
 //sorceress
 [hsor]
-Hotkey=S
+Hotkey=Q
 Tip=Train |cffffcc00S|rorceress
 
 // Slow
 [Aslo]
 Tip=Slo|cffffcc00w|r
 Untip="|cffc3dbffRight-click to activate auto-casting.|r"
-Hotkey=W
-Unhotkey=W
+Hotkey=Q
+Unhotkey=Q
 
 // Polymorph
 [Aply]
 Tip=Polym|cffffcc00o|rrph
-Hotkey=O
+Hotkey=E
 
 // Invisibility
 [Aivs]
 Tip=|cffffcc00I|rnvisibility
-Hotkey=I
+Hotkey=W
 
 //spell breaker
 [hspt]
-Hotkey=B
+Hotkey=E
 Tip=Train Spell |cffffcc00B|rreaker
 
 // Spell Steal
 [Asps]
 Tip=Spell S|cffffcc00t|real
 Untip="|cffc3dbffRight-click to activate auto-casting.|r"
-Hotkey=T
-Unhotkey=T
+Hotkey=Q
+Unhotkey=Q
 
 // Control Magic
 [Acmg]
 Tip=|cffffcc00C|rontrol Magic
-Hotkey=C
+Hotkey=W
 
 //siege engine (without barrage)
 [hmtt]
@@ -286,7 +286,7 @@ Tip=Train Siege |cffffcc00E|rngine
 
 //gryphon rider
 [hgry]
-Hotkey=G
+Hotkey=W
 Tip=Train |cffffcc00G|rryphon Rider
 
 /////////////////////////////
@@ -296,7 +296,7 @@ Tip=Train |cffffcc00G|rryphon Rider
 //control magic
 [Rhss]
 Tip=Research Control Ma|cffffcc00g|ric
-Hotkey=G
+Hotkey=D
 
 //iron swords upgrades
 [Rhme]
